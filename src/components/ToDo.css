@@ -1,0 +1,45 @@
+* {
+    font-family: "Montserrat", sans-serif;
+    background-color: #EEEEEE;
+  }
+
+
+  .todo {
+    margin: 0 auto;
+    display: table;
+  }
+.card {
+    background-color: #fff;
+    width: 300px;
+    border-radius: 3%;
+    padding: 10px;
+    margin: 10px;
+}
+
+.id {
+    font-size: 1.1em;
+    background-color: #fff !important;
+}
+
+.tit {
+    font-weight: normal;
+    font-size: 13px;
+    background-color: #fff !important;
+}
+
+.btn {
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+    font-size: 15px;
+    background: #01d28e;
+    border: 1px solid #01d28e;
+    color: #fff;
+    padding: 10px 20px;
+}
+
+.btn:hover {
+    background: #6cf0c2;
+    border-color: #6cf0c2;
+}
